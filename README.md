@@ -1,143 +1,87 @@
-# Hi 👋, I'm Palash Nigam Khare
-
-### 🚀 Full Stack Developer | AI/ML Enthusiast | Java Programmer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nigampalash&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 🌟 About Me
-
-* 🎓 B.Tech CSE Student at SRM Institute of Science and Technology
-* 💻 Passionate about Software Development, AI/ML and Problem Solving
-* 🌱 Currently learning **LLMs, Blockchain and Advanced Backend Development**
-* 💬 Ask me about **Java, Full Stack Development, Node.js, Express.js, MongoDB, Machine Learning**
-* 📫 Reach me at **[nigam.palash@gmail.com](mailto:nigam.palash@gmail.com)**
-* ⚡ Fun fact: **I speak fluent JAVA... and sometimes English 😄**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/palash-nigam-khare/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="https://www.instagram.com/nigam_palash/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-
-<a href="https://www.codechef.com/users/nigam_palash" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="45" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/nigam_palash22" target="_blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="45" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0e75b6&text=Palash%20Nigam%20Khare&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow,pytorch,arduino" />
+  <a href="https://komarev.com/ghpvc/?username=nigampalash">
+    <img src="https://komarev.com/ghpvc/?username=nigampalash&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  </a>
 </p>
 
----
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
-## 💻 Tech Stack
+## 📌 About Me
 
-### Programming Languages
+B.Tech Computer Science student at SRM Institute of Science and Technology, passionate about building robust software, intelligent models, and solving complex problems. Currently focused on **Full Stack Development**, **LLMs**, and **Advanced Backend architectures**. Always eager to build production-grade projects and explore cutting-edge technologies like Blockchain.
 
-* Java
-* Python
-* C++
-* JavaScript
+## 🧠 Focus Areas
 
-### Frontend Development
-
-* HTML5
-* CSS3
-* React.js
-* Bootstrap
-
-### Backend Development
-
-* Node.js
-* Express.js
-
-### Database
-
-* MongoDB
-* MySQL
-
-### AI / ML
-
-* TensorFlow
-* PyTorch
-* Machine Learning
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Arduino
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 PalashKart 2.0
-
-Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB and EJS.
-
-### 🌾 Smart Crop Fertilizer Recommendation System
-
-Machine Learning based solution for crop and fertilizer recommendations.
-
-### 💰 Loan Risk Platform
-
-Risk prediction system using Machine Learning algorithms.
-
-### 🤖 AI & Data Analytics Projects
-
-Projects involving predictive analytics, data visualization and machine learning.
-
----
+`Full Stack Development` &nbsp; `Large Language Models` &nbsp; `Advanced Backend Systems` &nbsp; `Machine Learning` &nbsp; `Java Programming` &nbsp; `Data Structures & Algorithms`
 
 ## 🎯 Current Goals
 
-* Master Data Structures & Algorithms
-* Become a Strong Full Stack Developer
-* Build Production-Level AI Applications
-* Secure a High-Paying Software Engineering Role
-* Contribute to Open Source Projects
+`Mastering DSA` &nbsp; `Production-Level AI Applications` &nbsp; `Open Source Contributions` &nbsp; `High-Impact Software Engineering`
 
----
+## 🚀 Featured Projects
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nigampalash&theme=github-dark" />
-</p>
-
----
+* 🛒 **PalashKart 2.0** - Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB, and EJS.
+* 🌾 **Smart Crop Fertilizer Recommendation System** - Machine Learning based solution for crop and fertilizer recommendations.
+* 💰 **Loan Risk Platform** - Risk prediction system using Machine Learning algorithms.
+* 🤖 **AI & Data Analytics Projects** - Projects involving predictive analytics, data visualization, and machine learning.
 
 ## 🏅 Achievements
 
-* 💡 Hackathon Participant
-* 🤖 AI/ML Project Developer
-* 🌐 Full Stack Developer
-* ☕ Java Enthusiast
-* 📊 Data Analytics Learner
+* 💡 **Hackathon Enthusiast** - Active participant in hacking and building solutions.
+* 🤖 **AI/ML Innovator** - Developer of multiple machine learning models and pipelines.
+* 🌐 **Full Stack Architect** - Experience designing end-to-end web applications.
+* ☕ **Java Specialist** - Deep understanding of OOPs, collections, and algorithms in Java.
 
----
+## 📊 GitHub Stats
+
+<table align="center"><tr><td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nigampalash&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" />
+</td><td width="20"></td><td>
+<img height="180em" src="https://streak-stats.demolab.com?user=nigampalash&theme=dark&hide_border=true" />
+</td></tr></table>
 
 <p align="center">
-  <b>Building impactful software, learning every day, and preparing for the future 🚀</b>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nigampalash&langs_count=8&layout=compact&theme=dracula&border_radius=10" />
 </p>
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="Express" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/palash-nigam-khare/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:nigam.palash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nigam_palash/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/nigam_palash" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4636.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/nigam_palash22" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</div>
