@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/nigampalash/nigampalash/main/assets/futuristic_banner.png" alt="Futuristic Tech Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/nigampalash/nigampalash/main/assets/futuristic_banner.gif" alt="Futuristic Tech Banner" width="100%" />
 
 ## 📌 About Me
 
