@@ -1,12 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0e75b6&text=Palash%20Nigam%20Khare&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00d2ff&text=Palash%20Nigam%20Khare&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Programmer;Problem+Solver" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=nigampalash">
-    <img src="https://komarev.com/ghpvc/?username=nigampalash&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=nigampalash&label=Profile%20views&color=00d2ff&style=flat-square" alt="profile views" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/nigampalash/nigampalash/main/assets/futuristic_banner.png" alt="Futuristic Tech Banner" width="100%" />
 
 ## 📌 About Me
 
@@ -20,53 +24,75 @@ B.Tech Computer Science student at SRM Institute of Science and Technology, pass
 
 `Mastering DSA` &nbsp; `Production-Level AI Applications` &nbsp; `Open Source Contributions` &nbsp; `High-Impact Software Engineering`
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nigampalash&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" />
+</p>
+
 ## 🚀 Featured Projects
 
-* 🛒 **PalashKart 2.0** - Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB, and EJS.
-* 🌾 **Smart Crop Fertilizer Recommendation System** - Machine Learning based solution for crop and fertilizer recommendations.
-* 💰 **Loan Risk Platform** - Risk prediction system using Machine Learning algorithms.
-* 🤖 **AI & Data Analytics Projects** - Projects involving predictive analytics, data visualization, and machine learning.
+* 🛒 **[PalashKart 2.0](https://github.com/nigampalash/PalashKart)** - *Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB, and EJS.*
+* 🌾 **[Smart Crop Recommendation](https://github.com/nigampalash/Smart-Crop)** - *Machine Learning based solution for crop and fertilizer recommendations.*
+* 💰 **[Loan Risk Platform](https://github.com/nigampalash/Loan-Risk)** - *Risk prediction system using Machine Learning algorithms.*
+* 🤖 **[AI & Data Analytics](https://github.com/nigampalash/AI-Projects)** - *Projects involving predictive analytics, data visualization, and machine learning.*
 
 ## 🏅 Achievements
 
-* 💡 **Hackathon Enthusiast** - Active participant in hacking and building solutions.
-* 🤖 **AI/ML Innovator** - Developer of multiple machine learning models and pipelines.
-* 🌐 **Full Stack Architect** - Experience designing end-to-end web applications.
-* ☕ **Java Specialist** - Deep understanding of OOPs, collections, and algorithms in Java.
+* 💡 **Hackathon Enthusiast** — *Active participant in hacking and building solutions.*
+* 🤖 **AI/ML Innovator** — *Developer of multiple machine learning models and pipelines.*
+* 🌐 **Full Stack Architect** — *Experience designing end-to-end web applications.*
+* ☕ **Java Specialist** — *Deep understanding of OOPs, collections, and algorithms in Java.*
 
 ## 📊 GitHub Stats
 
 <table align="center"><tr><td>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nigampalash&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nigampalash&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" />
 </td><td width="20"></td><td>
-<img height="180em" src="https://streak-stats.demolab.com?user=nigampalash&theme=dark&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=nigampalash&theme=tokyonight&hide_border=true" />
 </td></tr></table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nigampalash&langs_count=8&layout=compact&theme=dracula&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nigampalash&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" alt="Java" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML5" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS3" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" alt="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚙️ Backend & Databases</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" alt="Node.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="35" alt="Express" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" alt="MongoDB" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧠 AI / ML & Tools</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VS Code" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="35" alt="Arduino" />
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Connect with Me
 
