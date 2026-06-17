@@ -55,41 +55,9 @@ B.Tech Computer Science student at SRM Institute of Science and Technology, pass
 
 ## 🛠️ Languages & Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Languages</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" alt="Java" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌐 Frontend</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML5" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS3" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" alt="React" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>⚙️ Backend & Databases</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" alt="Node.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="35" alt="Express" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" alt="MongoDB" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🧠 AI / ML & Tools</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35" alt="TensorFlow" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="35" alt="PyTorch" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VS Code" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="35" alt="Arduino" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nigampalash/nigampalash/main/assets/languages_tools.svg" alt="Languages & Tools" width="560" />
+</p>
 
 ## 🤝 Connect with Me
 

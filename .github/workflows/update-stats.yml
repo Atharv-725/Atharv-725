@@ -27,11 +27,13 @@ jobs:
       - name: Run Stats Generator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_stats.py
+        run: |
+          python scripts/generate_stats.py
+          python scripts/generate_tools.py
 
       - name: Commit and Push SVG Card
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github_stats.svg
+          git add assets/github_stats.svg assets/languages_tools.svg
           git diff-index --quiet HEAD || (git commit -m "auto: Update GitHub stats card" && git push)
