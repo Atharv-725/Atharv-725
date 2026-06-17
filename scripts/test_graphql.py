@@ -63,7 +63,11 @@ req = urllib.request.Request(
 try:
     with urllib.request.urlopen(req) as response:
         result = json.loads(response.read().decode("utf-8"))
-    print("GraphQL Results:")
-    print(json.dumps(result, indent=2))
+    
+    # Save the output to a file in the workspace
+    filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), "graphql_output.txt")
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(json.dumps(result, indent=2))
+    print(f"Saved results to {filepath}")
 except Exception as e:
     print("GraphQL query failed:", e)

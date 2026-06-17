@@ -221,7 +221,7 @@ def generate_svg(stats, streak, langs, filepath):
         
     # Build Lang Progress Bar segments
     bar_x = 30
-    bar_y = 435
+    bar_y = 50
     bar_width = 500
     bar_height = 8
     bar_segments = []
@@ -245,7 +245,7 @@ def generate_svg(stats, streak, langs, filepath):
     grid_cols = 2
     col_width = 240
     start_x = 35
-    start_y = 465
+    start_y = 75
     row_height = 24
     
     for idx, lang in enumerate(langs):
