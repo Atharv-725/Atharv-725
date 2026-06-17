@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560px" height="550px" viewBox="0 0 560 550" direction="ltr">
+    <style>
+        @keyframes currstreak {
+            0% { font-size: 3px; opacity: 0.2; }
+            80% { font-size: 34px; opacity: 1; }
+            100% { font-size: 28px; opacity: 1; }
+        }
+        @keyframes fadein {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        .title {
+            fill: #BF91F3;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif;
+            font-weight: 700;
+            font-size: 18px;
+        }
+        .stat-label {
+            fill: #70A5FD;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .stat-value {
+            fill: #38BDAE;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+        }
+        .card-border {
+            stroke: #2F3147;
+            stroke-width: 1.5;
+            fill: #1A1B27;
+            rx: 10px;
+        }
+    </style>
+    
+    <!-- Outer Card Background -->
+    <rect class="card-border" width="558" height="548" x="1" y="1" />
+    
+    <!-- HEADER -->
+    <g transform="translate(30, 45)">
+        <!-- GitHub Stats Icon (Simplified Graph Icon) -->
+        <path d="M 0 10 L 5 10 L 5 -5 L 0 -5 Z M 8 10 L 13 10 L 13 -15 L 8 -15 Z M 16 10 L 21 10 L 21 0 L 16 0 Z" fill="#BF91F3" stroke="none"/>
+        <text x="32" y="8" class="title">My GitHub Statistics</text>
+    </g>
+    
+    <!-- SECTION 1: Key Statistics -->
+    <g transform="translate(30, 80)">
+        <!-- Stats list -->
+        <g transform="translate(0, 0)">
+            <!-- Stars -->
+            <g transform="translate(0, 10)">
+                <text class="stat-label">Total Stars:</text>
+                <text x="180" class="stat-value">0</text>
+            </g>
+            <!-- Commits -->
+            <g transform="translate(0, 40)">
+                <text class="stat-label">Total Commits:</text>
+                <text x="180" class="stat-value">280</text>
+            </g>
+            <!-- PRs -->
+            <g transform="translate(0, 70)">
+                <text class="stat-label">Total PRs:</text>
+                <text x="180" class="stat-value">1</text>
+            </g>
+            <!-- Issues -->
+            <g transform="translate(0, 100)">
+                <text class="stat-label">Total Issues:</text>
+                <text x="180" class="stat-value">2</text>
+            </g>
+            <!-- Contributed to -->
+            <g transform="translate(0, 130)">
+                <text class="stat-label">Contributed to:</text>
+                <text x="180" class="stat-value">0</text>
+            </g>
+        </g>
+        
+        <!-- Right side: Grade Badge -->
+        <g transform="translate(390, 45)">
+            <!-- Circle border -->
+            <circle cx="45" cy="45" r="45" fill="none" stroke="#BF91F3" stroke-width="4.5" style="opacity: 0.8; animation: fadein 0.5s linear forwards 0.3s" />
+            <!-- Grade character -->
+            <text x="45" y="56" fill="#BF91F3" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="800" font-size="34px" text-anchor="middle" style="animation: fadein 0.5s linear forwards 0.5s">
+                A+
+            </text>
+        </g>
+    </g>
+    
+    <!-- Divider Line -->
+    <line x1="30" y1="245" x2="530" y2="245" stroke="#2F3147" stroke-width="1.5" />
+    
+    <!-- SECTION 2: Streaks -->
+    <g transform="translate(0, 250)">
+        <!-- Current Streak -->
+        <g transform="translate(140, 50)">
+            <!-- Fire Icon -->
+            <g transform="translate(-10, -50)" scale="0.9">
+                <path d="M 1.5 0.67 C 1.5 0.67 2.24 3.32 2.24 5.47 C 2.24 7.53 0.89 9.2 -1.17 9.2 C -3.23 9.2 -4.79 7.53 -4.79 5.47 L -4.76 5.11 C -6.78 7.51 -8 10.62 -8 13.99 C -8 18.41 -4.42 22 0 22 C 4.42 22 8 18.41 8 13.99 C 8 8.6 5.41 3.79 1.5 0.67 Z M -0.29 19 C -2.07 19 -3.51 17.6 -3.51 15.86 C -3.51 14.24 -2.46 13.1 -0.7 12.74 C 1.07 12.38 2.9 11.53 3.92 10.16 C 4.31 11.45 4.51 12.81 4.51 14.2 C 4.51 16.85 2.36 19 -0.29 19 Z" fill="#FF9E64"/>
+            </g>
+            <!-- Number Circle -->
+            <circle cx="0" cy="5" r="28" fill="none" stroke="#BF91F3" stroke-width="4.5" />
+            <text x="0" y="15" fill="#BF91F3" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28px" text-anchor="middle" style="animation: currstreak 0.6s linear forwards">
+                4
+            </text>
+            
+            <text x="0" y="55" fill="#BF91F3" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="14px" text-anchor="middle">Current Streak</text>
+            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">Jun 14 - Jun 17</text>
+        </g>
+        
+        <!-- Divider -->
+        <line x1="280" y1="15" x2="280" y2="105" stroke="#2F3147" stroke-width="1.5" />
+        
+        <!-- Longest Streak -->
+        <g transform="translate(420, 50)">
+            <text x="0" y="15" fill="#70A5FD" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28px" text-anchor="middle">
+                4
+            </text>
+            <text x="0" y="55" fill="#70A5FD" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="14px" text-anchor="middle">Longest Streak</text>
+            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">May 24 - May 27</text>
+        </g>
+    </g>
+    
+    <!-- Divider Line -->
+    <line x1="30" y1="375" x2="530" y2="375" stroke="#2F3147" stroke-width="1.5" />
+    
+    <!-- SECTION 3: Programming Languages -->
+    <g transform="translate(0, 385)">
+        <text x="30" y="25" class="title">My Programming Languages</text>
+        
+        <!-- Progress Bar Background (Rounded Track) -->
+        <rect x="30" y="435" width="500" height="8" fill="#2F3147" rx="4" />
+        
+        <!-- Progress Bar Segments -->
+        <g clip-path="url(#bar-clip)">
+            <rect x="30" y="435" width="196.03039696030396" height="8" fill="#f1e05a" />
+<rect x="226.03039696030396" y="435" width="122.3877612238776" height="8" fill="#3572A5" />
+<rect x="348.41815818418155" y="435" width="46.995300469953" height="8" fill="#e34c26" />
+<rect x="395.41345865413456" y="435" width="46.44535546445355" height="8" fill="#3178c6" />
+<rect x="441.8588141185881" y="435" width="38.74612538746125" height="8" fill="#663399" />
+<rect x="480.60493950604933" y="435" width="22.64773522647735" height="8" fill="#DA5B0B" />
+<rect x="503.25267473252666" y="435" width="21.797820217978202" height="8" fill="#dea584" />
+<rect x="525.0504949505049" y="435" width="4.94950504949505" height="8" fill="#a91e50" />
+        </g>
+        
+        <!-- Clip Path to round progress bar edges -->
+        <clipPath id="bar-clip">
+            <rect x="30" y="435" width="500" height="8" rx="4" />
+        </clipPath>
+        
+        <!-- Legend Grid -->
+        
+        <g transform="translate(35, 465)">
+            <circle cx="5" cy="5" r="5" fill="#f1e05a" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">JavaScript</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">39.21%</text>
+        </g>
+        
+
+        <g transform="translate(275, 465)">
+            <circle cx="5" cy="5" r="5" fill="#3572A5" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">Python</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">24.48%</text>
+        </g>
+        
+
+        <g transform="translate(35, 489)">
+            <circle cx="5" cy="5" r="5" fill="#e34c26" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">HTML</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">9.4%</text>
+        </g>
+        
+
+        <g transform="translate(275, 489)">
+            <circle cx="5" cy="5" r="5" fill="#3178c6" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">TypeScript</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">9.29%</text>
+        </g>
+        
+
+        <g transform="translate(35, 513)">
+            <circle cx="5" cy="5" r="5" fill="#663399" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">CSS</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">7.75%</text>
+        </g>
+        
+
+        <g transform="translate(275, 513)">
+            <circle cx="5" cy="5" r="5" fill="#DA5B0B" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">Jupyter Notebook</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">4.53%</text>
+        </g>
+        
+
+        <g transform="translate(35, 537)">
+            <circle cx="5" cy="5" r="5" fill="#dea584" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">Rust</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">4.36%</text>
+        </g>
+        
+
+        <g transform="translate(275, 537)">
+            <circle cx="5" cy="5" r="5" fill="#a91e50" />
+            <text x="18" y="9" fill="#A9B1D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500">EJS</text>
+            <text x="180" y="9" fill="#565F89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-size="12px" text-anchor="end">0.99%</text>
+        </g>
+        
+    </g>
+</svg>
