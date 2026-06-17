@@ -17,33 +17,38 @@
 
 
 
-## 📌 About Me
+## <img src="assets/icons/about_me.svg" width="28" valign="middle" /> About Me
 
 B.Tech Computer Science student at SRM Institute of Science and Technology, passionate about building robust software, intelligent models, and solving complex problems. Currently focused on **Full Stack Development**, **LLMs**, and **Advanced Backend architectures**. Always eager to build production-grade projects and explore cutting-edge technologies like Blockchain.
 
-## 🧠 Focus Areas
+## <img src="assets/icons/focus_areas.svg" width="28" valign="middle" /> Focus Areas
 
-`Full Stack Development` &nbsp; `Large Language Models` &nbsp; `Advanced Backend Systems` &nbsp; `Machine Learning` &nbsp; `Java Programming` &nbsp; `Data Structures & Algorithms`
+<p align="center">
+  <img src="assets/focus_areas.svg" alt="Focus Areas" width="560" />
+</p>
 
-## 🎯 Current Goals
+## <img src="assets/icons/current_goals.svg" width="28" valign="middle" /> Current Goals
 
-`Mastering DSA` &nbsp; `Production-Level AI Applications` &nbsp; `Open Source Contributions` &nbsp; `High-Impact Software Engineering`
+<p align="center">
+  <img src="assets/current_goals.svg" alt="Current Goals" width="560" />
+</p>
 
+## <img src="assets/icons/featured_projects.svg" width="28" valign="middle" /> Featured Projects
 
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[PalashKart 2.0](https://github.com/nigampalash/PalashKart)** - *Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB, and EJS.*
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[Smart Crop Recommendation](https://github.com/nigampalash/Smart-Crop)** - *Machine Learning based solution for crop and fertilizer recommendations.*
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[Loan Risk Platform](https://github.com/nigampalash/Loan-Risk)** - *Risk prediction system using Machine Learning algorithms.*
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[AI &amp; Data Analytics](https://github.com/nigampalash/AI-Projects)** - *Projects involving predictive analytics, data visualization, and machine learning.*
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[Smart Resume Screener](https://github.com/nigampalash/smart-resume-screener)** - *AI-powered resume parsing and compatibility screener utilizing Natural Language Processing (NLP) and machine learning.*
+- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[AI SaaS Platform](https://github.com/nigampalash/AI-Project-SaaS-Platform)** - *Full Stack AI SaaS platform featuring automated analytical dashboards, user authentication, and machine learning pipelines.*
 
-## 🚀 Featured Projects
+## <img src="assets/icons/achievements.svg" width="28" valign="middle" /> Achievements
 
-* 🛒 **[PalashKart 2.0](https://github.com/nigampalash/PalashKart)** - *Full Stack E-Commerce Application built using Node.js, Express.js, MongoDB, and EJS.*
-* 🌾 **[Smart Crop Recommendation](https://github.com/nigampalash/Smart-Crop)** - *Machine Learning based solution for crop and fertilizer recommendations.*
-* 💰 **[Loan Risk Platform](https://github.com/nigampalash/Loan-Risk)** - *Risk prediction system using Machine Learning algorithms.*
-* 🤖 **[AI & Data Analytics](https://github.com/nigampalash/AI-Projects)** - *Projects involving predictive analytics, data visualization, and machine learning.*
+- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Hackathon Enthusiast** — *Active participant in hacking and building solutions.*
+- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **AI/ML Innovator** — *Developer of multiple machine learning models and pipelines.*
+- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Full Stack Architect** — *Experience designing end-to-end web applications.*
+- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Java Specialist** — *Deep understanding of OOPs, collections, and algorithms in Java.*
 
-## 🏅 Achievements
-
-* 💡 **Hackathon Enthusiast** — *Active participant in hacking and building solutions.*
-* 🤖 **AI/ML Innovator** — *Developer of multiple machine learning models and pipelines.*
-* 🌐 **Full Stack Architect** — *Experience designing end-to-end web applications.*
-* ☕ **Java Specialist** — *Deep understanding of OOPs, collections, and algorithms in Java.*
 
 ## 📊 GitHub Stats
 

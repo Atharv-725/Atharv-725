@@ -28,6 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          python scripts/generate_profile_assets.py
           python scripts/generate_stats.py
           python scripts/generate_tools.py
 
@@ -35,5 +36,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github_stats.svg assets/languages_tools.svg
-          git diff-index --quiet HEAD || (git commit -m "auto: Update GitHub stats card" && git push)
+          git add assets/github_stats.svg assets/languages_tools.svg assets/focus_areas.svg assets/current_goals.svg assets/icons/*.svg
+          git diff-index --quiet HEAD || (git commit -m "auto: Update GitHub stats card and profile assets" && git push)

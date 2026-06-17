@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18">
+    <style>
+        .outer {
+            fill: none;
+            stroke: #BF91F3;
+            stroke-width: 2;
+            transform-origin: center;
+            animation: spin 8s linear infinite;
+        }
+        .inner {
+            fill: #38BDAE;
+            animation: pulse-inner 1.8s ease-in-out infinite;
+            transform-origin: center;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        @keyframes pulse-inner {
+            0%, 100% { transform: scale(0.8); opacity: 0.6; }
+            50% { transform: scale(1.1); opacity: 1; }
+        }
+    </style>
+    <path class="outer" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z" stroke-dasharray="4,3" />
+    <polygon class="inner" points="12,7 15,10 13,10 13,17 11,17 11,10 9,10" transform="translate(0, -1)" />
+    <circle class="inner" cx="12" cy="12" r="3" />
+</svg>
