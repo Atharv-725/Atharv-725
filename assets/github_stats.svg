@@ -62,7 +62,7 @@
             <!-- PRs -->
             <g transform="translate(0, 70)">
                 <text class="stat-label">Total PRs:</text>
-                <text x="180" class="stat-value">1</text>
+                <text x="180" class="stat-value">3</text>
             </g>
             <!-- Issues -->
             <g transform="translate(0, 100)">
@@ -72,7 +72,7 @@
             <!-- Contributed to -->
             <g transform="translate(0, 130)">
                 <text class="stat-label">Contributed to:</text>
-                <text x="180" class="stat-value">0</text>
+                <text x="180" class="stat-value">2</text>
             </g>
         </g>
         
@@ -101,11 +101,11 @@
             <!-- Number Circle -->
             <circle cx="0" cy="5" r="28" fill="none" stroke="#BF91F3" stroke-width="4.5" />
             <text x="0" y="15" fill="#BF91F3" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28px" text-anchor="middle" style="animation: currstreak 0.6s linear forwards">
-                4
+                6
             </text>
             
             <text x="0" y="55" fill="#BF91F3" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="14px" text-anchor="middle">Current Streak</text>
-            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">Jun 14 - Jun 17</text>
+            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">Jun 14 - Jun 19</text>
         </g>
         
         <!-- Divider -->
@@ -114,10 +114,10 @@
         <!-- Longest Streak -->
         <g transform="translate(420, 50)">
             <text x="0" y="15" fill="#70A5FD" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28px" text-anchor="middle">
-                4
+                6
             </text>
             <text x="0" y="55" fill="#70A5FD" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="14px" text-anchor="middle">Longest Streak</text>
-            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">May 24 - May 27</text>
+            <text x="0" y="75" fill="#38BDAE" stroke="none" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12px" text-anchor="middle">Jun 14 - Jun 19</text>
         </g>
     </g>
     
