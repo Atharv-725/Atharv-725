@@ -232,12 +232,12 @@ def create_focus_areas_svg(assets_dir):
     height = 135
     
     pills = [
-        {"title": "Full Stack Dev", "icon": "M2 4h20v12H2zm10 16h2v-4h-2zm-6 0h12v-1h-12z", "color": "#70A5FD", "col": 0, "row": 0},
-        {"title": "Large Language Models", "icon": "M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM9 11H7V9h2v2zm4 0h-2V9h2v2zm4 0h-2V9h2v2z", "color": "#38BDAE", "col": 1, "row": 0},
-        {"title": "Advanced Backend", "icon": "M19 12H5V5h14zm0-9H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z", "color": "#FF9E64", "col": 2, "row": 0},
-        {"title": "Machine Learning", "icon": "M12 3c-4.97 0-9 4.03-9 9 0 2.12.74 4.07 1.97 5.61L4.35 19.4c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0l1.9-1.9C9.07 19.58 10.49 20 12 20c4.97 0 9-4.03 9-9s-4.03-9-9-9zm0 15c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6z", "color": "#BF91F3", "col": 0, "row": 1},
-        {"title": "Java Programming", "icon": "M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm-1 15.5v-3.5H9v-1h2v-3H9v-1h2v-2.5h2V6.5h2v1h-2v3h2v1h-2v3h2v1h-2v3.5h-2z", "color": "#FFD43B", "col": 1, "row": 1},
-        {"title": "DSA &amp; Algorithms", "icon": "M19 15c-1.2 0-2.28-.56-3-1.43L9.4 17.5c.37.73.6 1.55.6 2.5 0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5c1.2 0 2.28.56 3 1.43l6.6-3.93c-.37-.73-.6-1.55-.6-2.5 0-2.76 2.24-5 5-5s5 2.24 5 5-2.24 5-5 5z", "color": "#9013FE", "col": 2, "row": 1}
+        {"title": "Machine Learning", "icon": "M12 3c-4.97 0-9 4.03-9 9 0 2.12.74 4.07 1.97 5.61L4.35 19.4c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0l1.9-1.9C9.07 19.58 10.49 20 12 20c4.97 0 9-4.03 9-9s-4.03-9-9-9zm0 15c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6z", "color": "#BF91F3", "col": 0, "row": 0},
+        {"title": "Federated Learning", "icon": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z", "color": "#70A5FD", "col": 1, "row": 0},
+        {"title": "Data Engineering", "icon": "M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z", "color": "#38BDAE", "col": 2, "row": 0},
+        {"title": "Production ML", "icon": "M2 4h20v12H2zm10 16h2v-4h-2zm-6 0h12v-1h-12z", "color": "#FF9E64", "col": 0, "row": 1},
+        {"title": "Quantum Computing", "icon": "M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm-1 15.5v-3.5H9v-1h2v-3H9v-1h2v-2.5h2V6.5h2v1h-2v3h2v1h-2v3h2v1h-2v3.5h-2z", "color": "#FFD43B", "col": 1, "row": 1},
+        {"title": "Model Observability", "icon": "M19 15c-1.2 0-2.28-.56-3-1.43L9.4 17.5c.37.73.6 1.55.6 2.5 0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5c1.2 0 2.28.56 3 1.43l6.6-3.93c-.37-.73-.6-1.55-.6-2.5 0-2.76 2.24-5 5-5s5 2.24 5 5-2.24 5-5 5z", "color": "#9013FE", "col": 2, "row": 1}
     ]
     
     pills_svg = []
@@ -328,10 +328,10 @@ def create_current_goals_svg(assets_dir):
     height = 95
     
     goals = [
-        {"title": "Mastering DSA &amp; Algorithms", "desc": "Structured Problem Solving", "color": "#70A5FD", "col": 0, "row": 0},
-        {"title": "Production-Level AI Apps", "desc": "LLMs &amp; Smart Agentic Coding", "color": "#38BDAE", "col": 1, "row": 0},
-        {"title": "Open Source Contributions", "desc": "Collaborating with Communities", "color": "#BF91F3", "col": 0, "row": 1},
-        {"title": "High-Impact Software Eng.", "desc": "Advanced System Architectures", "color": "#FF9E64", "col": 1, "row": 1}
+        {"title": "Federated Learning Research", "desc": "Privacy-Preserving Distributed ML", "color": "#70A5FD", "col": 0, "row": 0},
+        {"title": "Production ML Systems", "desc": "Drift Detection &amp; Model Monitoring", "color": "#38BDAE", "col": 1, "row": 0},
+        {"title": "Open Source Contributions", "desc": "Building AI tools and libraries", "color": "#BF91F3", "col": 0, "row": 1},
+        {"title": "Scalable Data Pipelines", "desc": "ETL, streaming, and containerized analytics", "color": "#FF9E64", "col": 1, "row": 1}
     ]
     
     goals_svg = []

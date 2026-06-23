@@ -561,7 +561,7 @@ def generate_svg(stats, streak, langs, filepath):
     print(f"SVG saved to {filepath}")
 
 def main():
-    username = "nigampalash"
+    username = "Atharv-725"
     print(f"Fetching GitHub stats for user: {username}")
     token = os.environ.get("GITHUB_TOKEN")
     

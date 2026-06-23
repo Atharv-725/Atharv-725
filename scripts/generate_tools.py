@@ -24,21 +24,21 @@ def generate_svg():
             "x": 30,
             "y": 98,
             "icons": [
-                {"name": "java", "data": icons.get("java")},
                 {"name": "python", "data": icons.get("python")},
-                {"name": "cplusplus", "data": icons.get("cplusplus")},
-                {"name": "javascript", "data": icons.get("javascript")}
+                {"name": "javascript", "data": icons.get("javascript")},
+                {"name": "java", "data": icons.get("java")},
+                {"name": "html5", "data": icons.get("html5")}
             ]
         },
         {
-            "title": "Frontend",
+            "title": "AI / ML &amp; Data",
             "x": 295,
             "y": 98,
             "icons": [
-                {"name": "html5", "data": icons.get("html5")},
-                {"name": "css3", "data": icons.get("css3")},
-                {"name": "react", "data": icons.get("react")},
-                {"name": "bootstrap", "data": icons.get("bootstrap")}
+                {"name": "tensorflow", "data": icons.get("tensorflow")},
+                {"name": "pytorch", "data": icons.get("pytorch")},
+                {"name": "python", "data": icons.get("python")},
+                {"name": "java", "data": icons.get("java")}
             ]
         },
         {
@@ -48,20 +48,19 @@ def generate_svg():
             "icons": [
                 {"name": "nodejs", "data": icons.get("nodejs")},
                 {"name": "express", "data": icons.get("express")},
-                {"name": "mongodb", "data": icons.get("mongodb")},
-                {"name": "mysql", "data": icons.get("mysql")}
+                {"name": "mysql", "data": icons.get("mysql")},
+                {"name": "mongodb", "data": icons.get("mongodb")}
             ]
         },
         {
-            "title": "AI / ML &amp; Tools",
+            "title": "Tools &amp; Platforms",
             "x": 295,
             "y": 223,
             "icons": [
-                {"name": "tensorflow", "data": icons.get("tensorflow")},
-                {"name": "pytorch", "data": icons.get("pytorch")},
                 {"name": "git", "data": icons.get("git")},
                 {"name": "vscode", "data": icons.get("vscode")},
-                {"name": "arduino", "data": icons.get("arduino")}
+                {"name": "css3", "data": icons.get("css3")},
+                {"name": "bootstrap", "data": icons.get("bootstrap")}
             ]
         }
     ]

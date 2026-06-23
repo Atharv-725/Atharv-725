@@ -22,7 +22,7 @@ jobs:
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@v2
         with:
-          user: nigampalash
+          user: Atharv-725
           theme: github-dark-blue
           hide_border: true
           background: 0D1117
