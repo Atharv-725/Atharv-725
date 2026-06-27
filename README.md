@@ -10,55 +10,64 @@
   </a>
 </p>
 
-## <img src="assets/icons/about_me.svg" width="28" valign="middle" /> About Me
+## :pushpin: About Me
 
 B.Tech Computer Science student at SRM Institute of Science and Technology building production-ready ML systems, full-stack applications, and data engineering pipelines. Active in **Federated Learning Research**, **Machine Learning**, **Production ML**, and **Model Observability**, with a focus on privacy-preserving AI, automation, and scalable analytics.
 
-## <img src="assets/icons/focus_areas.svg" width="28" valign="middle" /> Focus Areas
+## :dart: Focus Areas
 
 <p align="center">
-  <img src="assets/focus_areas.svg" alt="Focus Areas" width="560" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-BF91F3?style=for-the-badge&logo=brain&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-70A5FD?style=for-the-badge&logo=globe&logoColor=white" alt="FL" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-38BDAE?style=for-the-badge&logo=apache-spark&logoColor=white" alt="DE" />
+  <img src="https://img.shields.io/badge/Production%20ML-FF9E64?style=for-the-badge&logo=mlflow&logoColor=white" alt="ProdML" />
+  <img src="https://img.shields.io/badge/Quantum%20Computing-FFD43B?style=for-the-badge&logo=quantum&logoColor=black" alt="QC" />
+  <img src="https://img.shields.io/badge/Model%20Observability-9013FE?style=for-the-badge&logo=grafana&logoColor=white" alt="Obs" />
 </p>
 
-## <img src="assets/icons/current_goals.svg" width="28" valign="middle" /> Current Goals
+## :bullseye: Current Goals
+
+- :satellite: **Federated Learning Research** -- Privacy-Preserving Distributed ML
+- :bar_chart: **Production ML Systems** -- Drift Detection & Model Monitoring
+- :globe_with_meridians: **Open Source Contributions** -- Building AI tools and libraries
+- :gear: **Scalable Data Pipelines** -- ETL, streaming, and containerized analytics
+
+## :rocket: Featured Projects
+
+- :computer: **[adaptive-fl-paper](https://github.com/Atharv-725/adaptive-fl-paper)** - *Federated learning framework with ADWIN-based drift detection and dynamic client weighting for resilient model aggregation.*
+- :computer: **[fedmed-adaptive-dp](https://github.com/Atharv-725/fedmed-adaptive-dp)** - *Medical tabular federated learning with sensitivity-aware adaptive differential privacy.*
+- :computer: **[federated-cv-qc](https://github.com/Atharv-725/federated-cv-qc)** - *Privacy-preserving industrial defect detection using federated learning and YOLOv8.*
+- :computer: **[ModelPulse](https://github.com/Atharv-725/modelpulse)** - *Lightweight ML observability tool that detects production data drift and model degradation.*
+- :computer: **[news-etl-pipeline](https://github.com/Atharv-725/news-etl-pipeline)** - *Production ETL pipeline with sentiment analysis, MySQL storage, Docker, and Streamlit visualization.*
+- :computer: **[qaoa-vqe-maxcut-benchmark](https://github.com/Atharv-725/qaoa-vqe-maxcut-benchmark)** - *Benchmarking QAOA versus VQE for Max-Cut using Qiskit and PennyLane.*
+
+## :trophy: Achievements
+
+- :star2: **Federated Learning Researcher** -- *Building privacy-preserving and adaptive federated ML systems for real-world data.*
+- :star2: **ML Systems Builder** -- *Creating model observability, drift detection, and production-ready AI tools.*
+- :star2: **Data Engineering Practitioner** -- *Designing containerized ETL and streaming pipelines with MySQL, Docker, and monitoring.*
+- :star2: **Full Stack Automation Developer** -- *Delivering end-to-end web and automation solutions for AI and analytics.*
+
+## :chart_with_upwards_trend: GitHub Analytics
 
 <p align="center">
-  <img src="assets/current_goals.svg" alt="Current Goals" width="560" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-725&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BF91F3&icon_color=70A5FD&text_color=A9B1D6&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-725&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=FF9E64&currStreakLabel=70A5FD" alt="GitHub Streak" width="49%" />
 </p>
 
-## <img src="assets/icons/featured_projects.svg" width="28" valign="middle" /> Featured Projects
-
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[adaptive-fl-paper](https://github.com/Atharv-725/adaptive-fl-paper)** - *Federated learning framework with ADWIN-based drift detection and dynamic client weighting for resilient model aggregation.*
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[fedmed-adaptive-dp](https://github.com/Atharv-725/fedmed-adaptive-dp)** - *Medical tabular federated learning with sensitivity-aware adaptive differential privacy.*
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[federated-cv-qc](https://github.com/Atharv-725/federated-cv-qc)** - *Privacy-preserving industrial defect detection using federated learning and YOLOv8.*
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[ModelPulse](https://github.com/Atharv-725/modelpulse)** - *Lightweight ML observability tool that detects production data drift and model degradation.*
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[news-etl-pipeline](https://github.com/Atharv-725/news-etl-pipeline)** - *Production ETL pipeline with sentiment analysis, MySQL storage, Docker, and Streamlit visualization.*
-- <img src="assets/icons/bullet_project.svg" width="18" valign="middle" /> **[qaoa-vqe-maxcut-benchmark](https://github.com/Atharv-725/qaoa-vqe-maxcut-benchmark)** - *Benchmarking QAOA versus VQE for Max-Cut using Qiskit and PennyLane.*
-
-## <img src="assets/icons/achievements.svg" width="28" valign="middle" /> Achievements
-
-- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Federated Learning Researcher** -- *Building privacy-preserving and adaptive federated ML systems for real-world data.*
-- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **ML Systems Builder** -- *Creating model observability, drift detection, and production-ready AI tools.*
-- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Data Engineering Practitioner** -- *Designing containerized ETL and streaming pipelines with MySQL, Docker, and monitoring.*
-- <img src="assets/icons/bullet_achievement.svg" width="18" valign="middle" /> **Full Stack Automation Developer** -- *Delivering end-to-end web and automation solutions for AI and analytics.*
-
-
-
-## GitHub Analytics
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-725/Atharv-725/main/assets/github_stats.svg" alt="GitHub Stats" width="560" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-725&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BF91F3&text_color=A9B1D6&langs_count=8&count_private=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-## Languages & Tools
+## :wrench: Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-725/Atharv-725/main/assets/languages_tools.svg" alt="Languages & Tools" width="560" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,git,vscode,docker,bootstrap&perline=8&theme=dark" alt="Tech Stack" />
 </p>
 
-## Connect with Me
+## :handshake: Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-dorle-6552602b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
@@ -66,6 +75,4 @@ B.Tech Computer Science student at SRM Institute of Science and Technology build
   <a href="mailto:dorleatharv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00d2ff&section=footer" width="100%"/>
