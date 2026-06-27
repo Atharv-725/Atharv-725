@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00d2ff&text=Atharv%20Dorle&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Coder%20CS%2725%20%40%20SRM%20%7C%20ML%20%26%20Full%20Stack%20%26%20Data%20Engineering%20%7C%20Federated%20Learning%20Research%20%7C%20Open%20to%20internships&descSize=20&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+  <img src="assets/avatar.jpg" width="200" alt="Atharv Dorle" />
+</p>
+
+<h1 align="center">Atharv Dorle</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Coder+CS%2725+%40+SRM;ML+%26+Full+Stack+%26+Data+Engineering;Federated+Learning+Research;Open+to+internships" alt="Typing SVG" />
+  <strong>Coder CS'25 @ SRM | ML & Full Stack & Data Engineering | Federated Learning Research | Open to internships</strong>
 </p>
 
 <p align="center">
