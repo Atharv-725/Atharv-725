@@ -8,6 +8,8 @@ import sys
 import os
 import importlib.util
 
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+
 def load_script(script_path):
     """Load a Python script as a module"""
     spec = importlib.util.spec_from_file_location("module", script_path)
